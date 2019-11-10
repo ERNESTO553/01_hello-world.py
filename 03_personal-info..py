@@ -1,0 +1,5 @@
+Nombre = input ("cual es tu nombre?")
+Apellido = input ("Cual es tu apellido?")
+Domicilio = input ("donde vives?")
+Edad = input ("cual es tu Edad?")
+print("hola",Nombre, Apellido,"Tu edad es",Edad,"tu informacion dice que vives en",Domicilio)
